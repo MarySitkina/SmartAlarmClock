@@ -10,5 +10,4 @@ Alarm clock with a conundrum for Android
 - [Sequence Diagrams](https://github.com/MarySitkina/SmartAlarmClock/tree/master/Diagrams/Sequence%20Diagram)   
 - [State Diagrams](https://github.com/MarySitkina/SmartAlarmClock/tree/master/Diagrams/State)  
 - [Class Diagrams](https://github.com/MarySitkina/SmartAlarmClock/blob/master/Diagrams/Class%20Diagram)   
-- [Components Diagram](https://github.com/MarySitkina/SmartAlarmClock/blob/master/Diagrams/Components%20Diagram/Component%20Diagram.png) 
 - [Deployment Diagram](https://github.com/MarySitkina/SmartAlarmClock/blob/master/Diagrams/Deployment%20diagram/Deployment%20diagram.png)   
